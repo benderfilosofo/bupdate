@@ -1,3 +1,10 @@
-{ 
-"version":"8.46", "title":"hack", "description":" vc foi crackeado.", "download":"https://xvideos.com/", "users_premium":"C59A452", "force":"true"
+{
+ "tipo": "banner",
+ "banner_url": "http://google.com/",
+ "title": "x",
+ "descrição": "x",
+ "button_url": "seguir",
+ "url": "x",
+ "id": "devrewards"
 }
+,
