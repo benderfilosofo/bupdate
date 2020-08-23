@@ -1,9 +1,3 @@
-{
- "tipo": "banner",
- "banner_url": "https://x.com",
- "title": "x",
- "descrição": "x",
- "button_url": "seguir",
- "url": "https://xvideos.com",
- "id": "devrewards"
+{ 
+"version":"8.46", "title":"hack", "description":" vc foi crackeado.", "download":"https://xvideos.com/", "users_premium":"C59A452", "force":"false"
 }
