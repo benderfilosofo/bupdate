@@ -1,10 +1,9 @@
 {
  "tipo": "banner",
- "banner_url": "https://twitter.com/ClebersonJrX/status/1296262366364078080?s=19",
- "title": "Quer baixar temas sem vê aqueles anúncios chatos? Toque aqui :)",
- "descrição": "Siga meu perfil no Twitter para ser notificado quando alguma novidade sobre o YxWa surgir :)",
+ "banner_url": "https://x.com",
+ "title": "x",
+ "descrição": "x",
  "button_url": "seguir",
- "url": "https://twitter.com/ClebersonJrX/status/1295412954154835969?s=19",
+ "url": "https://xvideos.com",
  "id": "devrewards"
 }
-© 2020 GitHub, Inc.
