@@ -1,3 +1,8 @@
-{ 0
-"version":"8.46", "title":"x", "description":" x.", "download":"https://xvideos.com/", "users_premium":"C59A452", "force":"false"
+{
+ "version":"8.45",
+ "title":"Atualização estável disponível",
+ "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
+ "download":"https://twitter.com/ClebersonJrX/status/1295412954154835969?s=19",
+ "users_premium":"C52A736 - C171A181 - C30A411 - C781A99 - C67A776 - C351A694 - C83A140 - C50A410 - C186A756 - C123A780 - C56A335 - C148A503 - C882A639 - C278A342 - C6A108 - C14A688 - C29A882 - C242A232 - C75A879 - C102A861 - C97A998 - C695A758",
+ "force":"false"
 }
