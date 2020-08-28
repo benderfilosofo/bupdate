@@ -1,8 +1,8 @@
 {
- "version":"8.45",
+ "version":"8.46",
  "title":"Atualização estável disponível",
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://wa.me/556292589784",
  "users_premium":"C59A452 - C59A452",
- "force":"false"
+ "force":"true"
 }
