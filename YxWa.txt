@@ -1,5 +1,5 @@
 {
- "version":"8.51",
+ "version":"8.50",
  "title":"Atualização estável disponível",
  "description":"Uma nova versão do Mod já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://wa.me/556292589784",
