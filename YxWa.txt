@@ -1,5 +1,5 @@
 {
- "version":"8.56",
+ "version":"8.55",
  "slogan_vip":"Obrigado por apoiar o projeto❤️",
  "slogan":"Os bugs são apenas um brinde 🤧",
  "status":"theme",
