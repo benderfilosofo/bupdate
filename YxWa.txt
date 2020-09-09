@@ -1,8 +1,12 @@
 {
- "version":"8.50",
- "title":"Atualização estável disponível",
- "description":"Uma nova versão do Mod já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
- "download":"https://wa.me/556292589784",
- "users_premium":"C106A267 - C106A267",
+ "version":"8.55",
+ "slogan_vip":"Jéssica eu te amo❤️",
+ "slogan":"Os bugs são apenas um brinde 🤧",
+ "status":"theme",
+ "title":"Atualização 8.55 disponível, toque para atualizar",
+ "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
+ "download":"https://ela.me/5562992589784",
+ "download_noads":"$",
+ "users_premium":"C106A267 " ,
  "force":"true"
 }
