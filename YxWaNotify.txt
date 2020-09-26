@@ -1,10 +1,9 @@
 {
  "tipo": "banner",
- "banner_url": "http://google.com/",
- "title": "x",
- "descrição": "x",
- "button_url": "seguir",
- "url": "x",
- "id": "devrewards"
+ "banner_url": "http://wa.me/556292589784",
+ "title": "Nova Atualização disponivel!",
+ "descrição": " Versão 8.65 está pronta.",
+ "button_url": "Atualizar",
+ "url": "https://wa.me/5562992589784",
+ "id": "devatt865"
 }
-,
