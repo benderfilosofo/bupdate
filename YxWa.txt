@@ -6,6 +6,6 @@
  "title":"Atualização 8.65 disponível, toque para atualizar",
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://wa.me/5562992589784",
- "users_premium":"C106A267 " ,
+ "users_premium":"C39A690 " ,
  "force":"true"
 }
