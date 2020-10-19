@@ -1,9 +1,9 @@
 {
- "tipo": "banner",
- "banner_url": "http://wa.me/556292589784",
- "title": "Nova Atualização disponivel!",
- "descrição": " Versão 8.65 está pronta.",
- "button_url": "Atualizar",
- "url": "https://wa.me/5562992589784",
- "id": "devatt865"
+ "type":"banner",
+ "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
+ "title":"Novidade na área 😋",
+ "description":"Sabe aquele amigo chato que vive mandando áudios enormes? Agora é possível reproduzir áudios na metade do tempo. (isso mesmo, agora você pode acelerar os áudios usando o YxWhatsApp)",
+ "button_url":"ver 👀",
+ "url":"https://telegra.ph/Speed-Up-Add-on-10-18",
+ "id":"speedupaddon"
 }
