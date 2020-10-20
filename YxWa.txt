@@ -1,9 +1,9 @@
 {
- "version":"8.70",
+ "version":"8.75",
  "slogan_vip":"Obrigado por apoiar o projeto❤️",
  "slogan":"Os bugs são apenas um brinde 🤧",
  "status":"theme",
- "title":"Atualização 8.70-BETA disponível, toque para atualizar",
+ "title":"Atualização 8.70 está disponível, toque para atualizar",
  "description":"Uma nova versão do YxWa já está disponível, toque em 'atualizar' para fazer o download da versão mais recente e conferir o que mudou.",
  "download":"https://wa.me/5562992589784",
  "users_premium":"C21A696 C170A640" ,
