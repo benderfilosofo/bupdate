@@ -1,11 +1,9 @@
 {
  "version":"8.75",
- "slogan_vip":"Obrigado por apoiar o projeto❤️",
- "slogan":"Os bugs são apenas um brinde 🤧",
  "status":"beta",
  "title":"Atualização disponível",
- "description":"description":"Por gentileza, atualize para a versão mais recente.\n\nAlterações\n• Base atualizada para 2.20.199.14\n• Novo estilo para os anexos adicionado, incluindo uma nova animação. (você pode habilitar e/ou desabilitar em YxMods > Conversa)\n• 5 novas entradas de conversas, 16 novas bolhas e 14 novos ticks.\n• Opção para gerenciar seus temas. (extrair e/ou excluir)\n• O ícone da Câmera está de volta nos anexos.\n• Opção para alterar o estilo da seta Rolar para baixo na tela de conversa.\n• Suporte ao add-on Fouad Store (para que você pode usar temas do Fouad no YxWa)",
- "download":"https://wa.me/5562992589784",
- "users_premium":"C17A827 " ,
+ "description":"Por gentileza, atualize para a versão mais recente.\n\nAlterações\n• Base atualizada para 2.20.199.14\n• Novo estilo para os anexos adicionado, incluindo uma nova animação. (você pode habilitar e/ou desabilitar em YxMods > Conversa)\n• 5 novas entradas de conversas, 16 novas bolhas e 14 novos ticks.\n• Opção para gerenciar seus temas. (extrair e/ou excluir)\n• O ícone da Câmera está de volta nos anexos.\n• Opção para alterar o estilo da seta Rolar para baixo na tela de conversa.\n• Suporte ao add-on Fouad Store (para que você pode usar temas do Fouad no YxWa)",
+ "download":"http://www.mediafire.com/file/vxtgp0mduf433bt/YxMods(8.70-beta).apk/file",
+ "users_premium":"C17A827 C55A711 C58A219 C27A865 C0A281 C465A991 C0A281 C36A87 C84A8 C135A602 C742A384 C65A552 C41A688 C64A163 C106A491 C2A749",
  "force":"true"
 }
