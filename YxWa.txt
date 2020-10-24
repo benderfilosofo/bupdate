@@ -4,6 +4,6 @@
  "title":"Atualização disponível",
  "description":"A versão 8.72 está disponível e inclui correções de bugs, uma nova opção para escolher o que acontecerá quando você clicar na foto do seu perfil na tela inicial e a possibilidade de interromper a reprodução de áudio quando você recebe dois ou mais áudios em uma conversa.\n\nComo atualizar?\nToque no botão 'Atualizar' - aguarde o download do aplicativo e logo após - faça a instalação por cima.",
  "download":"http://wa.me/556292589784",
- "users_premium":"C17A827 ",
+ "users_premium":"C17A827 C34A474",
  "force":"true"
 }
