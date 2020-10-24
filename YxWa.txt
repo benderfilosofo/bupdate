@@ -1,8 +1,8 @@
 {
- "version":"8.77",
+ "version":"8.72A",
  "status":"beta",
  "title":"Atualização disponível",
- "description":"Por gentileza, atualize para a versão mais recente.\n\nAlterações\n• Base atualizada para 2.20.199.14\n• Novo estilo para os anexos adicionado, incluindo uma nova animação. (você pode habilitar e/ou desabilitar em YxMods > Conversa)\n• 5 novas entradas de conversas, 16 novas bolhas e 14 novos ticks.\n• Opção para gerenciar seus temas. (extrair e/ou excluir)\n• O ícone da Câmera está de volta nos anexos.\n• Opção para alterar o estilo da seta Rolar para baixo na tela de conversa.\n• Suporte ao add-on Fouad Store (para que você pode usar temas do Fouad no YxWa)",
+ "description":"A versão 8.72 está disponível e inclui correções de bugs, uma nova opção para escolher o que acontecerá quando você clicar na foto do seu perfil na tela inicial e a possibilidade de interromper a reprodução de áudio quando você recebe dois ou mais áudios em uma conversa.\n\nComo atualizar?\nToque no botão 'Atualizar' - aguarde o download do aplicativo e logo após - faça a instalação por cima.",
  "download":"http://wa.me/556292589784",
  "users_premium":"C17A827 ",
  "force":"true"
