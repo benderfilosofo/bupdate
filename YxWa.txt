@@ -1,7 +1,8 @@
 {
- "version":"8.73",
+ "version":"8.80",
  "expire850":"5000",
  "expire860":"5000",
+ "expire880":"5000",
  "status":"beta",
  "title":"Atualização disponível",
  "description":"• Nova base 2.20.205.16\n• Mensagens temporárias com autodestruição em 7 dias\n• Opção para 'Sempre iniciar status com som'\n• Ícone @ na tela inicial quando você for mencionado em um grupo\n• Novo seletor de papéis de parede\n• Novos filtros avançados na barra de busca\n• Suporte aos stickers animados\n• Toque e segure em uma legenda de um status para copiá-la\n• Correções de bugs e melhorias" ,
