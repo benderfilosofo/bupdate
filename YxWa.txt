@@ -1,12 +1,11 @@
 {
  "version":"8.80",
- "expire850":"5000",
- "expire860":"5000",
- "expire880":"5000",
- "status":"beta",
+ "expire860":"125",
+ "expire850":"125",
+ "rewards":"https://telegra.ph/Pronto-12-11",
  "title":"Atualização disponível",
- "description":"• Nova base 2.20.205.16\n• Mensagens temporárias com autodestruição em 7 dias\n• Opção para 'Sempre iniciar status com som'\n• Ícone @ na tela inicial quando você for mencionado em um grupo\n• Novo seletor de papéis de parede\n• Novos filtros avançados na barra de busca\n• Suporte aos stickers animados\n• Toque e segure em uma legenda de um status para copiá-la\n• Correções de bugs e melhorias" ,
- "download":"http://wa.me/556292589784",
- "users_premium":"C12A555 C34A474",
+ "description":"🔺 Baseado no Fouad 8.65\n 🔻 Corrigido: idioma inglês e espanhol\n🔺 Corrigido: bugs ao enviar mensagens em grupos\n🔺 Corrigido: bugs ao utilizar a opção 'Ticks azuis após resposta' em grupos\n🔺 Corrigido: bugs ao deslizar os cards para ver ações na tela inicial\n🔺 Corrigido: falha ao usar o Split Video em alguns aparelhos\n🔺 Outras correções e melhorias",
+ "download":"https://t.me/yxwagroup/148714",
+ "users_premium":"C204A964 C70A383 C382A972 C94A66 C119A805 C35A278 C265A779 C13A695 C66A695 C7A477 C11A944 C154A136 C27A971 C61A767 C24A915 C40A798 C76A463 C24A539 C83A901 C0A324 C239A680 C27A78 C244A545 C22A215 C287A677 C41A634 C110A763 C470A496 C101A210 C962A129 C64A726 C169A52 C70A81 C70A333 C18A229 C7A663 C34A2 C82A578 C65A32 C107A750 C70A63 C37A266 C122A61 C189A813 C115A832 C189A426 C57A600 C147A245 C267A625 C925A154 C51A787 C22A902 C163A471 C110A926 C102A121 C123A647 C58A3 C109A534 C161A523 C155A282 C47A608 C463A314 C149A7 C276A809 C555A256 C776A123 C287A912 C24A2 C55A894 C55A711 C58A219 C27A865 C0A281 C465A991 C0A281 C36A87 C84A8 C135A602 C742A384 C65A552 C109A474 C64A163 C106A491 C2A749",
  "force":"true"
 }
