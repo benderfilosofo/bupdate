@@ -1,10 +1,10 @@
 {
-  "registros": [
+  "records": [
     {
-      "versão": "DELTA YOWA v3.6.2",
-      "código": 02,
+      "version": "DELTA YOWA v3.6.2",
+      "code": 02,
       "url": "http://bit.ly/DELTA362",
-      "changelog": "- Adicionar trocador de voz - Adicionar confirmação de adesivo - Adicionar interface inicial REDONDA v2 - Redesenhar interface inicial 7AHANG - Adicionar novo estilo de linha de conversa - Adicionar novo estilo de guia - Alterar estilo FAB (estendido) - Excluir mensagem ilimitada - Corrigir bug ( Semoga) "
+      "changelog": "- Add Voice Changer - Add Sticker Confirmation - Add ROUNDED v2 Home UI - Redesign 7AHANG Home UI - Add New Conversation Row Style - Add New Tab Style - Change FAB Style (Extended) - Unlimited Delete Message - Fix Bug (Semoga)"
     }
   ]
 }
