@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "DELTA YOWA v3.6.2",
-      "code": 02,
+      "code": 01,
       "url": "https://drive.google.com/u/0/uc?export=download&confirm=K_jg&id=1MCUqTN6bZy7K3oRvVMRESKv_yxwg-cDq",
       "changelog": "- Add Voice Changer - Add Sticker Confirmation - Add ROUNDED v2 Home UI - Redesign 7AHANG Home UI - Add New Conversation Row Style - Add New Tab Style - Change FAB Style (Extended) - Unlimited Delete Message - Fix Bug (Semoga)"
     }
