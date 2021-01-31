@@ -2,7 +2,7 @@
   "registros": [
     {
       "versão": "DELTA YOWA v3.6.2",
-      "código": 01,
+      "código": 02,
       "url": "http://bit.ly/DELTA362",
       "changelog": "- Adicionar trocador de voz - Adicionar confirmação de adesivo - Adicionar interface inicial REDONDA v2 - Redesenhar interface inicial 7AHANG - Adicionar novo estilo de linha de conversa - Adicionar novo estilo de guia - Alterar estilo FAB (estendido) - Excluir mensagem ilimitada - Corrigir bug ( Semoga) "
     }
