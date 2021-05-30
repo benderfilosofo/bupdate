@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.7.1F",
-      "code": 26,
-      "url": "http://bit.ly/DELTAv371",
-      "changelog": "- Add Conversation List Animation - Redesign DELTA Settings - Add option to Save, Load and Restore Theme in DELTA Theme Store - Fix DND Mode - Fix Schedule Message - More.."
+      "version": "DELTA YOWA v3.7.2",
+      "code": 27,
+      "url": "https://bit.ly/2R6stsE",
+      "changelog": "- Adicionar visualização de mensagens por - Adicionar marca de administrador - Adicionar visualização de mensagem revogada - Adicionar anel Visualização online - Adicionar visualização na configuração DELTA - Novo estilo de HOME - Long Click Profile Home Header para desativar clicando no título WA - Corrigir bug"
     }
   ]
 }
