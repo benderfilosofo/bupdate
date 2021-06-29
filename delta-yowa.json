@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.7.2",
-      "code": 27,
+      "version": "DELTA YOWA v3.7.3",
+      "code": 28,
       "url": "https://bit.ly/2ROvM8k",
-      "changelog": "- Adicionar visualização de mensagens por - Adicionar marca de administrador - Adicionar visualização de mensagem revogada - Adicionar anel Visualização online - Adicionar visualização na configuração DELTA - Novo estilo de HOME - Long Click Profile Home Header para desativar clicando no título WA - Corrigir bug"
+      "changelog": "- Interface do usuário da página inicial do Messenger - Bolha de gradiente - Corrigir visualização de contato rápido - Corrigir brinde online - Clique longo na guia do Pinterest para alterar a grade / lista - Clique longo na visualização de perfil para acessar o bate-papo oculto"
     }
   ]
 }
