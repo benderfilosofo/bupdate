@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.7.3",
-      "code": 28,
+      "version": "DELTA YOWA v3.8.0",
+      "code": 31,
       "url": "https://bit.ly/2ROvM8k",
-      "changelog": "- Interface do usuário da página inicial do Messenger - Bolha de gradiente - Corrigir visualização de contato rápido - Corrigir brinde online - Clique longo na guia do Pinterest para alterar a grade / lista - Clique longo na visualização de perfil para acessar o bate-papo oculto"
+      "changelog": " - Anti View Once - Fix Conversation Setting - Fix Floating Extended"
     }
   ]
 }
