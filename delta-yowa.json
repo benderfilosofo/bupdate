@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.9.2",
-      "code": 38,
-      "url": "https://wa.me/5562992589784",
-      "changelog": "- Wave Home UI - Caixa de diálogo de resposta rápida - Novo tradutor de bate-papo - Editor de bate-papo -> Configurações da gaveta - Modo diurno e noturno -> Página inicial da gaveta - Corrigir bate-papo oculto -> Contato rápido - Corrigir cor e visualização do divisor - Corrigir tamanho da mídia - Corrigir a caixa de diálogo de número não salvo - Mais .."
+      "version": "DELTA YOWA v3.9.2F",
+      "code": 39,
+      "url": "https://bit.ly/DELTA392F",
+      "changelog": "- Chat Translate Method (Google Translate / Built-In) - Mod Settings Home Stock"
     }
   ]
 }
