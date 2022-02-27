@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.9.2F",
-      "code": 39,
-      "url": "https://wa.me/5562992589784",
-      "changelog": "- Chat Translate Method (Google Translate / Built-In) - Mod Settings Home Stock"
+      "version": "DELTA YOWA v4.0.1",
+      "code": 41,
+      "url": "https://bit.ly/3IoEEqd",
+      "changelog": " - Base FM9.21 - Reações de bate-papo - Interface do usuário do cartão de preferências - ContextMenu (linha de nome de clique longo) - Idioma personalizado para Yandex Translator - Divisor de vídeo de bate-papo - Privacidade da chamada definida como Não atendida - IU inicial do Instagram - Título personalizado - Corrigir problemas -"
     }
   ]
 }
