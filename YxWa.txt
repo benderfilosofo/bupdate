@@ -1,11 +1,12 @@
 {
- "version":"8.80",
- "expire860":"1000",
- "expire850":"1000",
- "rewards":"https://telegra.ph/Pronto-12-11",
- "title":"Atualização disponível",
- "description":"🔺 Baseado no Fouad 8.65\n 🔻 Corrigido: idioma inglês e espanhol\n🔺 Corrigido: bugs ao enviar mensagens em grupos\n🔺 Corrigido: bugs ao utilizar a opção 'Ticks azuis após resposta' em grupos\n🔺 Corrigido: bugs ao deslizar os cards para ver ações na tela inicial\n🔺 Corrigido: falha ao usar o Split Video em alguns aparelhos\n🔺 Outras correções e melhorias",
- "download":"https://wa.me/556292589784",
- "users_premium":"C517A322 ",
+ "version":"9.25",
+ "expire881":"1000",
+ "expire870":"1000",
+ "store":"1",
+ "rewards":"",
+ "title":"Atualização disponível 🛠️",
+ "description":"Uma nova atualização está disponível e incluí novos recursos e correções de bugs.",
+ "download":"https://wa.me/5562992589784",
+ "users_premium":"",
  "force":"true"
 }
