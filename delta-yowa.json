@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v4.1.0F",
-      "code": 49,
+      "version": "DELTA YOWA v4.1.0EXT",
+      "code": 50,
       "url": "https://bit.ly/3RACkkW",
-      "changelog": "- Correção De Bugs"
+      "changelog": "- Versão Extendida até sair a próxima atualização de base."
     }
   ]
 }
