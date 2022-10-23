@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v4.2.0",
-      "code": 53,
+      "version": "DELTA YOWA v4.2.0F",
+      "code": 54,
       "url": "https://bit.ly/3RACkkW",
-      "changelog": "- Opção de um toque na bolha - Modificação de bate-papos - Correção de bug"
+      "changelog": "- Ativar/Desativar Um Toque na Bolha - Ativar/Desativar Entrada Flutuante - Corrigir Bug"
     }
   ]
 }
