@@ -1,8 +1,8 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v5.1.1",
-      "code": 69,
+      "version": "DELTA YOWA v5.1.2",
+      "code": 71,
       "url": "https://bit.ly/3nkxb5U",
       "changelog": " - Chat UI Customize Option - Chats Row Size - Add New Entry Layout - Fix Bug"
     }
